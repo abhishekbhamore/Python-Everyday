@@ -48,3 +48,6 @@ for i in numbers:
     average = total / len(numbers)
 print(total)
 print(average)
+
+
+#sfsfsfsxvszavzd 
