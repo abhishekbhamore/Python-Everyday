@@ -1,6 +1,0 @@
-pyspark==3.5.1
-pandas==2.1.4
-numpy==1.24.3
-jupyter==1.0.0
-# Note: Due to Python 3.13 compatibility issues with PySpark worker processes on Windows,
-# it is recommended to run PySpark in local mode with no parallelization
